@@ -9,7 +9,7 @@ git remote add origin https://github.com/lleonnssilva/....
 git commit "Primeiro Commit"
 git push -u origin master
 
----------------------
+
 Repositório Local
 Criar novo repositório
 git init
@@ -95,11 +95,10 @@ Se o resultado abaixo for exibido, o comando reset não alterou o diretório de 
 
 Unstaged changes after reset:
 M	meu_arquivo.txt
-A alteração do diretório pode ser realizada através do comando abaixo:
 
+A alteração do diretório pode ser realizada através do comando abaixo:
 git checkout meu_arquivo.txt
 
--------------------
 Repositório Remoto
 Exibir os repositórios remotos
 git remote
