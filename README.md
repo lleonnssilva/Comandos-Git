@@ -1,20 +1,18 @@
 # Comandos-Git
 
-
-#GIT
--Adicionar projeto local ao remote
-git init
-git remote
-git remote add origin https://github.com/lleonnssilva/....
-git commit "Primeiro Commit"
-git push -u origin master
+Adicionar projeto local ao remote
+  git init
+  git remote
+  git remote add origin https://github.com/lleonnssilva/....
+  git commit "Primeiro Commit"
+  git push -u origin master
 
 
 Repositório Local
-Criar novo repositório
+#Criar novo repositório
 git init
 
-Verificar estado dos arquivos/diretórios
+#Verificar estado dos arquivos/diretórios
 git status
 
 Adicionar arquivo/diretório (staged area)
