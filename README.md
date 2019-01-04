@@ -2,6 +2,7 @@ Git/GitHub
 
 Configurações  do git 
 Navegar até a pasta do projeto
+
 Ex:cd diretório/pasta/
 
 Iniciar Git na pasta
