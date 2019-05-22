@@ -25,8 +25,8 @@ Baixar as mudanças do GitHub em  seu  seu-git-remote-local</br>
 Subir as alterações no repositório GitHub com brach master</br>
 Adiciona os arquivos modificados no seu seu-git-remote-local  </br>
 **git add .**</br></br>
-Adiciona o commit com a descrição da alteração feita no seu seu-git-remote-local</br></br>
-**git commit -m 'Descrição das alterações’**</br>
+Adiciona o commit com a descrição da alteração feita no seu seu-git-remote-local</br>
+**git commit -m 'Descrição das alterações’**</br></br>
 Efetivar a alteração do seu seu-git-remote-local no GitHub</br>
 **git push -u origin master**</br>
 
