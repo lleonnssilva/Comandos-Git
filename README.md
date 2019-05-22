@@ -4,8 +4,8 @@
 Navegar até a pasta do projeto</br>
 **cd diretório/pasta/**</br></br>
  Iniciar Git na pasta</br>
-**git init**</br>
-Verificar remote local existente</br></br>
+**git init**</br></br>
+Verificar remote local existente</br>
 **git remote -v**</br>
 Resultado Console:</br>
 seu-git-remote-local https://github.com/lleonnssilva/heroku.git (fetch)</br>
