@@ -11,7 +11,7 @@ Resultado Console:</br>
 seu-git-remote-local https://github.com/lleonnssilva/heroku.git (fetch)</br>
 seu-git-remote-local https://github.com/lleonnssilva/heroku.git (push)</br>
 outros...</br></br>
-Excluir remote local existente (seu-git-remote-local ) caso queira usar passo 1.2</br>
+Excluir remote local existente (seu-git-remote-local )</br>
 **git remote rm seu-git-remote-local**</br></br>
 Pegar as alterações do repositório GitHub com brach master</br>
 Com repositório remote local existente</br>
