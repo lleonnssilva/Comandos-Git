@@ -6,13 +6,13 @@ Navegar até a pasta do projeto
 Ex:cd diretório/pasta/
 
 ### Iniciar Git na pasta
--git init
--Verificar remote local existente
--git remote -v
-Resultado Console:
-seu-git-remote-local https://github.com/lleonnssilva/heroku.git (fetch)
-seu-git-remote-local https://github.com/lleonnssilva/heroku.git (push)
-outros....
+-git init</br>
+-Verificar remote local existente</br>
+-git remote -v</br>
+Resultado Console:</br>
+seu-git-remote-local https://github.com/lleonnssilva/heroku.git (fetch)</br>
+seu-git-remote-local https://github.com/lleonnssilva/heroku.git (push)</br>
+
 
 Excluir remote local existente (seu-git-remote-local ) caso queira usar passo 1.2
 -git remote rm seu-git-remote-local
